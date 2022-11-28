@@ -1,0 +1,11 @@
+Ticker,Currency
+EURUSD=X,Euro in USD
+GBPUSD=X,Pound Sterling in USD
+AUDUSD=X,Australian Dollar in USD
+CHFJPY=X,Swiss Franc in Yen
+EURJPY=X,Euro in Yen
+NZDUSD=X,New Zealand Dollar in USD
+CHF=X, USD in Swiss Franc
+JPY=X, USD in Yen
+CAD=X, USD in Canadian Dollar
+CLP=X, USD in Chilean Pesos
